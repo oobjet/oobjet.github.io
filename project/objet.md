@@ -2,6 +2,12 @@
 
 ![objet](image/objet.jpg)
 
+blending electronic and rock influence, objet musical activities are centered
+around guitar playing, live looping and weird home-built sequencers.
+
+(re-)discovering old and new technology, playing drums, pushing keys and
+buttons, hiding some of my favorite musicians into my own creation.
+
 > "A very interesting and worthwhile solo live performance of In C done with
 > loopers. Any performance of the piece where the fragments are looped loses
 > some of the excitement of an ensemble performance, but for one person to do
