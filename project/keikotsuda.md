@@ -1,5 +1,7 @@
 # keiko tsuda
 
+2012 - 2017
+
 ![keiko tsuda](image/keikotsuda.jpg)
 
 > "Keiko Tsuda were one of the many players in the vibrant collective of French

@@ -29,7 +29,7 @@ for file in $list ; do
   echo "<br/><br/>" >> old.html
   # rss
   echo "<item>" >> rss.xml
-  echo "<title>f antoine</title>" >> rss.xml
+  echo "<title>objet</title>" >> rss.xml
   echo "<link>https://oooooooooo.net/old.html</link>" >> rss.xml
   echo "<guid>$file</guid>" >> rss.xml
   echo "<description><![CDATA[" >> rss.xml
@@ -44,8 +44,8 @@ cat end_rss.xml_ >> rss.xml
 sed -i.raw 's|DATE|'$newsdate'|g' old.html
 
 
-# payment links
-sed -i.raw -e '/CONCERT/r concert.htm_' index.html
+# blocks
+# sed -i.raw -e '/CONCERT/r concert.htm_' index.html
 
 
 # cleanup
