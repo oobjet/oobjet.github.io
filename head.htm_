@@ -68,7 +68,7 @@
           url("../include/roboto-mono-v21-latin-regular.woff") format("woff");
       }
       body {
-        background-color: #222;
+        background-color: #666;
         max-width: 800px;
         color: #fff;
         line-height: 1.6;
@@ -79,7 +79,7 @@
       }
       code {
         font-size: 1.6em;
-        color: #999;
+        color: #fff;
       }
       h1 {
         font-weight: bold;
@@ -94,7 +94,7 @@
         height: 1px;
       }
       a {
-        color: #aaa;
+        color: #bf4;
       }
       a:hover {
         color: #ccc;

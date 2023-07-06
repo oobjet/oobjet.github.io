@@ -1,15 +1,15 @@
-[objet](project/objet.html) - post-pop music. easy listening smart music.
+[objet](project/objet.html) - Post-pop music. Easy listening smart music.
 
-[keiko tsuda](project/keikotsuda.html) - drums and guitar duo math-punk. strings
+[keiko tsuda](project/keikotsuda.html) - Drums and guitar duo math-punk. Strings
 and skins.
 
-[tempus fugit](project/tempusfugit.html) - a very personal home made music
-library. an obsessive recording pad.
+[tempus fugit](project/tempusfugit.html) - A very personal home made music
+library. An obsessive recording pad.
 
-[paparatek](project/paparatek.html) - electronic music from french polynesia.
-moog meets computerized sound.
+[paparatek](project/paparatek.html) - Electronic music from french polynesia.
+Moog meets computerized sound.
 
-[fnog](project/fnog.html) - teenagers music from the 90s. influenced by
+[fnog](project/fnog.html) - Teenagers music from the 90s. Influenced by
 industrial music and post-everything styles.
 
-[tango!](project/tango.html) - fake jazz. to fall asleep...
+[tango!](project/tango.html) - Fake jazz. To fall asleep...

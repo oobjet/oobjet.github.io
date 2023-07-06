@@ -1,6 +1,6 @@
-traditional music for
+Traditional music for
 
-unknown worlds
+undiscovered worlds
 
 <br/>
 <br/>
@@ -13,16 +13,16 @@ unknown worlds
 
 ---
 
-[![stage](image/keiko3.jpg)](image/high/keiko3.jpg) playing with guitars and
-sound possibilities since 1990
+[![stage](image/keiko3.jpg)](image/high/keiko3.jpg) Playing with guitars and
+sound possibilities since 1990.
 
-i've been part of [many musical projects](project.html) over the years
+I've been part of [many musical projects](project.html) over the years.
 
 ---
 
-contact objetsound(at)proton.me
+Contact objetsound(at)proton.me
 
-events and release announcements :
+Events and release announcements :
 
 <form style="text-align:left;" action="https://tinyletter.com/objet" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/objet', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><input type="text" style="width:140px" name="email" id="tlemail" placeholder="email"/></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" /></form>
 
@@ -34,4 +34,4 @@ events and release announcements :
 
 ![me](image/me.jpg)
 
-hello. it's me.
+Hello. It's me.
