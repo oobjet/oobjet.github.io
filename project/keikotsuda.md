@@ -11,7 +11,7 @@ others was its eccentric punk aesthetic. The seven tracks on this debut
 incorporate looping and improvisation, are punchy, quirky, and have a rascally
 manner to them."_ - Bandcamp
 
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden"><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1900555156/size=small/bgcol=333333/linkcol=ffffff/track=1608274435/transparent=true/" seamless><a href="https://keikotsuda.bandcamp.com/album/sake-duo-kit">Sake Duo Kit de Keiko Tsuda</a></iframe></div>
+<div style="position:relative;padding-bottom:10%;height:0;overflow:hidden"><iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=1900555156/size=small/bgcol=333333/linkcol=ffffff/track=1608274435/transparent=true/" seamless><a href="https://keikotsuda.bandcamp.com/album/sake-duo-kit">Sake Duo Kit de Keiko Tsuda</a></iframe></div>
 
 [bandcamp](https://keikotsuda.bandcamp.com/)
 
