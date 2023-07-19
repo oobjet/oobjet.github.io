@@ -13,6 +13,6 @@ cohesive whole is he music was too complex for many, yet today it is impossible
 to discuss the high points of culture without invoking these same
 compositions"_ - ron davies / splendid
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=68375666/size=small/bgcol=333333/linkcol=ffffff/track=3709373179/transparent=true/" seamless><a href="https://tfugit.bandcamp.com/album/drinking-songs-for-vacuum-cleaners">Drinking songs for vacuum cleaners de Tempus Fugit</a></iframe>
+<div style="position:relative;padding-bottom:10%;height:0;overflow:hidden;"> <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=68375666/size=small/bgcol=333333/linkcol=ffffff/track=3709373179/transparent=true/" seamless><a href="https://tfugit.bandcamp.com/album/drinking-songs-for-vacuum-cleaners">Drinking songs for vacuum cleaners de Tempus Fugit</a></iframe></div>
 
 [bandcamp](https://tfugit.bandcamp.com/)
