@@ -22,7 +22,7 @@ one take is remarkable. It works."_ - William Denton / Bandcamp
 
 ---
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3428655801/size=small/bgcol=333333/linkcol=ffffff/track=733528187/transparent=true/" seamless><a href="https://objet.bandcamp.com/album/mono">Mono de Objet</a></iframe>
+<iframe style="border: 0; width: 800px; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3428655801/size=small/bgcol=333333/linkcol=ffffff/track=733528187/transparent=true/" seamless><a href="https://objet.bandcamp.com/album/mono">Mono de Objet</a></iframe>
 
 [bandcamp](https://objet.bandcamp.com/)
 
