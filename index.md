@@ -1,8 +1,7 @@
-Traditional music for
+being unsure
 
-undiscovered worlds
+but doing it anyway
 
-<br/>
 <br/>
 
 ---
