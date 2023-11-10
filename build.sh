@@ -46,6 +46,7 @@ sed -i.raw 's|DATE|'$newsdate'|g' old.html
 
 # blocks
 # sed -i.raw -e '/CONCERT/r concert.htm_' index.html
+sed -i.raw -e '/LABEL/r label.htm_' index.html
 
 
 # cleanup
