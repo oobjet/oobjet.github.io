@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>objet</title>
+    <meta name="keywords" content="guitar, looper, keiko tsuda, fnog" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script>
+      !(function (t, e) {
+        var o, n, p, r;
+        e.__SV ||
+          ((window.posthog = e),
+          (e._i = []),
+          (e.init = function (i, s, a) {
+            function g(t, e) {
+              var o = e.split(".");
+              2 == o.length && ((t = t[o[0]]), (e = o[1])),
+                (t[e] = function () {
+                  t.push([e].concat(Array.prototype.slice.call(arguments, 0)));
+                });
+            }
+            ((p = t.createElement("script")).type = "text/javascript"),
+              (p.async = !0),
+              (p.src = s.api_host + "/static/array.js"),
+              (r = t.getElementsByTagName("script")[0]).parentNode.insertBefore(
+                p,
+                r
+              );
+            var u = e;
+            for (
+              void 0 !== a ? (u = e[a] = []) : (a = "posthog"),
+                u.people = u.people || [],
+                u.toString = function (t) {
+                  var e = "posthog";
+                  return (
+                    "posthog" !== a && (e += "." + a), t || (e += " (stub)"), e
+                  );
+                },
+                u.people.toString = function () {
+                  return u.toString(1) + ".people (stub)";
+                },
+                o =
+                  "capture identify alias people.set people.set_once set_config register register_once unregister opt_out_capturing has_opted_out_capturing opt_in_capturing reset isFeatureEnabled onFeatureFlags getFeatureFlag getFeatureFlagPayload reloadFeatureFlags group updateEarlyAccessFeatureEnrollment getEarlyAccessFeatures getActiveMatchingSurveys getSurveys".split(
+                    " "
+                  ),
+                n = 0;
+              n < o.length;
+              n++
+            )
+              g(u, o[n]);
+            e._i.push([i, s, a]);
+          }),
+          (e.__SV = 1));
+      })(document, window.posthog || []);
+      posthog.init("phc_vqKUfwb05UaNZESJUtnmW25GZgZ7DabNlSXsmSyj0mB", {
+        api_host: "https://e.abla.io",
+      });
+    </script>
+    <!--<link href="https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap" rel="stylesheet"> -->
+    <style>
+      /* DEBUG BLOCK------------------------------------------------------------------------------------------------------------------------*/
+      /*
+.logo {
+	background-color: #CCC;
+}
+
+.main {
+	background-color: #AAA;
+}
+
+.sidenote {
+	background-color: #DDD;
+}
+ */
+      /* BODY & FONT------------------------------------------------------------------------------------------------------------------------*/
+
+      html {
+        scroll-behavior: smooth;
+      }
+
+      body {
+        background-color: #efefea;
+        font-family: Assistant, Open-Sans, Helvetica, Arial, sans-serif;
+        font-size: 12pt;
+        color: #555;
+        font-style: normal;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        margin: 0 0;
+        -webkit-font-smoothing: antialiased;
+        font-weight: normal;
+        font-family: Assistant, Helvetica, Arial, sans-serif;
+        color: #333;
+        max-width: 625px;
+      }
+
+      h1 {
+        font-size: 2em;
+      }
+
+      h2 {
+        font-size: 2.2em;
+        margin: 0 0 40px 0;
+      }
+
+      h3 {
+        font-size: 1.4em;
+        margin: 36px 0 24px 0;
+      }
+
+      h4 {
+        font-size: 1.2em;
+        font-weight: 300;
+        margin: 24px 0 12px 0;
+      }
+
+      a {
+        color: #518585;
+        background-color: #bff3ef;
+        text-decoration: none;
+        opacity: 1;
+        transition: 0.2s;
+        border-radius: 5px;
+        padding: 0 5px;
+      }
+
+      a.h1 {
+        height: 800px;
+      }
+
+      a:visited {
+        color: #855151;
+        background-color: #f3bfbb;
+        transition: 0.3s;
+      }
+
+      a.backtotop:visited {
+        color: #518585;
+        background-color: #bff3ef;
+        font-size: 2em;
+      }
+
+      a.logolink:visited {
+        color: #518585;
+        background-color: #bff3ef;
+        font-size: 2em;
+      }
+
+      a.logolink {
+        padding: 0;
+        font-family: Assistant, Open-Sans, Helvetica, Arial, sans-serif;
+      }
+
+      a:hover {
+        text-decoration: underline;
+        opacity: 0.7;
+        border-radius: 10px;
+      }
+
+      p {
+        width: 575px;
+        font-size: 1em;
+        line-height: 32px;
+        /* text-align: justify; */
+        padding-bottom: 12px;
+      }
+
+      /*
+p+p {
+	text-indent: 60px;
+}
+ */
+
+      ul {
+        margin: 17px 0 17px 0;
+        padding-left: 0;
+      }
+
+      ul li {
+        padding: 5px 0px;
+        width: 575px;
+        line-height: 24px;
+        /* text-align: justify; */
+        list-style: circle;
+      }
+
+      hr {
+        height: 1px;
+        background-color: #ddd;
+        border: none;
+        width: 575px;
+        margin-left: 0px;
+      }
+
+      blockquote {
+        color: #999;
+        width: 475px;
+        font-weight: 300;
+        margin: 0 0 42px 42px;
+        line-height: 28px;
+        text-align: center;
+        font-style: italic;
+      }
+
+      cite {
+        font-weight: bold;
+        display: inline;
+      }
+
+      .attribution {
+        font-size: 1.2em;
+      }
+
+      ::selection {
+        background: #eff3bb;
+        color: #818551;
+      }
+
+      /* MAIN ELEMENTS-----------------------------------------------------------------------------------------------------------------------*/
+
+      .flex-container {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        max-width: 1129px;
+        margin: 0 auto;
+        padding: 42px 0;
+        padding-left: 180px;
+      }
+      .logo {
+        flex-shrink: 0;
+        flex-basis: 80px;
+        float: left;
+        padding: 0 0 0 21px;
+      }
+
+      .main {
+        flex-basis: 1043px;
+        flex-grow: 0;
+        padding: 80px 21px 0 21px;
+      }
+
+      .sidenote {
+        float: right;
+        width: 253px;
+        padding: 5px 0 5px 60px;
+        text-indent: 0px;
+        color: #999;
+        font-size: 0.9em;
+        margin-left: 20px;
+        line-height: 28px;
+      }
+
+      .backtotopbox {
+        text-align: right;
+        border-top: 1px solid #ddd;
+      }
+
+      .date {
+        margin-top: -45px;
+        color: #999;
+        font-size: 0.9em;
+      }
+
+      .post-list {
+        color: #999;
+      }
+
+      /* MAIL CHIMP FORM---------------------------------------------------------------------------------------------------------------------*/
+      #mc_embed_shell {
+        width: 560px;
+        height: 60px;
+      }
+
+      #mce-EMAIL {
+        width: 360px;
+        margin-left: 20px;
+      }
+
+      #mc-embedded-subscribe {
+        margin-top: -22px;
+        float: right;
+      }
+
+      .mailchimpLogo {
+        display: none;
+      }
+
+      /* RESPONSIVENESS---------------------------------------------------------------------------------------------------------------------*/
+
+      @media only screen and (max-width: 1400px) {
+        .flex-container {
+          padding-left: 0px;
+        }
+      }
+
+      @media only screen and (max-width: 1100px) {
+        .flex-container {
+          flex-direction: column;
+        }
+        .main {
+          padding: 0 20px 20px 20px;
+        }
+      }
+
+      @media only screen and (max-width: 820px) {
+        .main {
+          padding: 0 20px 20px 20px;
+        }
+        .sidenote {
+          width: 160px;
+          padding: 10px 0 10px 40px;
+          /* border: none; */
+        }
+      }
+
+      @media only screen and (max-width: 650px) {
+        .sidenote {
+          padding: 10px 0 10px 20px;
+        }
+        p,
+        ul li,
+        hr,
+        blockquote {
+          width: 480px;
+        }
+        blockquote {
+          margin: 0;
+        }
+        #mc-embedded-subscribe {
+          margin: auto;
+          margin-top: 10px;
+          float: left;
+        }
+      }
+
+      @media only screen and (max-width: 510px) {
+        p,
+        ul li,
+        hr,
+        blockquote {
+          width: 400px;
+        }
+        #mce-EMAIL {
+          width: 280px;
+        }
+      }
+
+      @media only screen and (max-width: 440px) {
+        .sidenote {
+          width: 275px;
+          float: left;
+        }
+        p,
+        ul li,
+        hr,
+        blockquote {
+          width: 325px;
+        }
+        p {
+          text-align: justify;
+        }
+        #mce-EMAIL {
+          width: 210px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <br />
+    <br />
+  </body>
+</html>
