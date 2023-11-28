@@ -12,8 +12,9 @@ but doing it anyway
 
 ---
 
-[![stage](image/keiko3.jpg)](image/high/keiko3.jpg) Playing with guitars and
-sound possibilities since 1990.
+[![stage](image/keiko3.jpg)](image/high/keiko3.jpg)
+
+Playing with guitars and sound possibilities since 1990.
 
 I've been part of [many musical projects](project.html) over the years.
 
