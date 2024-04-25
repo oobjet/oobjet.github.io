@@ -28,6 +28,7 @@ Events and release announcements :
     <input type="hidden" name="accessKey" value="55b67c5b-f657-46e0-9762-e79dceee3071">
     <input type="text" name="email">
     <input type="submit" value="subscribe" />
+    <input type="hidden" name="redirectTo" value="https://www.oooooooooo.net/contact.html">
 </form>
 
 <!--CONCERT-->
